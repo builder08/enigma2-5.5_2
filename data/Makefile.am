@@ -1,4 +1,4 @@
-SUBDIRS = fonts keymaps
+SUBDIRS = fonts keymaps skin_default skin_fallback_1080 hw_info
 
 dist_pkgdata_DATA = \
 	encoding.conf \
@@ -23,7 +23,9 @@ dist_pkgdata_DATA = \
 	otv_011a0000_0002_07d4.dict \
 	otv_00820000_fbff_16a8.dict \
 	otv_06180000_1000_0011.dict \
-	otv_06400000_00a9_0003.dict
+	otv_06400000_00a9_0003.dict \
+	skin_default.xml \
+	skin.xml
 
 
 if HAVE_7SEGMENT

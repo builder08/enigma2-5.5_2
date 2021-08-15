@@ -1,4 +1,4 @@
-installdir = $(pkgdatadir)/skin_default/buttons
+installdir = $(pkgdatadir)/skin_default/infobar
 
 dist_install_DATA = \
 	*.png

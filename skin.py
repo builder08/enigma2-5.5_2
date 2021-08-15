@@ -17,7 +17,8 @@ from Tools.Directories import SCOPE_CONFIG, SCOPE_CURRENT_LCDSKIN, SCOPE_CURRENT
 from Tools.Import import my_import
 from Tools.LoadPixmap import LoadPixmap
 
-DEFAULT_SKIN = "MetrixHD/skin.xml"
+# DEFAULT_SKIN = "MetrixHD/skin.xml"
+DEFAULT_SKIN = "PLi-FullNightHD-FIX/skin.xml"
 EMERGENCY_SKIN = "skin_default.xml"
 EMERGENCY_NAME = "Default OE-A"
 DEFAULT_DISPLAY_SKIN = "skin_display_grautec.xml" if SystemInfo["grautec"] else "skin_display.xml"

@@ -856,7 +856,7 @@ data/7segment/Makefile
 data/hw_info/Makefile
 data/skin_default/Makefile
 data/skin_default/buttons/Makefile
-data/skin_default/contries/Makefile
+data/skin_default/countries/Makefile
 data/skin_default/epg/Makefile
 data/skin_default/extensions/Makefile
 data/skin_default/icons/Makefile
